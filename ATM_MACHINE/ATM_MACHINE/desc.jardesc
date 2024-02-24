@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="ATM_MACHINE/run.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ATM_MACHINE/desc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ATM_MACHINE/src&lt;gui{GUIController.java[GUIController" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/ATM_MACHINE/Data.txt"/>
+        <javaElement handleIdentifier="=ATM_MACHINE/src"/>
+        <file path="/ATM_MACHINE/.classpath"/>
+        <file path="/ATM_MACHINE/.project"/>
+    </selectedElements>
+</jardesc>
